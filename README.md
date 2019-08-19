@@ -3,4 +3,4 @@
 I've followed examples from Stripe documentation, however for some reason, suggested way does not work:
 https://stripe.com/docs/payments/3d-secure-iframe#handle-redirect
 
-![](./video.gif)
+![](./video2.gif)
