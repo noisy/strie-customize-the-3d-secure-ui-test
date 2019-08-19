@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<body>
+  body<br>
+  <iframe src="./sca-iframe.html" width="500" height="100" ></iframe>
+</body>
+<script>
+  function on3DSComplete() {
+    debugger
+    console.log("Event received!!!!")
+  }
+  window.addEventListener('3DS-authentication-complete', on3DSComplete, false);
+</script>
+</html>
